@@ -1,0 +1,11 @@
+node_modules/
+.runtime/
+.validation/
+*.local.json
+.env
+*.log
+.env.*
+*.pem
+*.key
+*.local.js
+config.js
